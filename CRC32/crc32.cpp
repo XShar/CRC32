@@ -20,5 +20,4 @@ int  main(int argc, char* argv[])
     crc = crc32_ram((uintptr_t)tst_str, strlen((char*)tst_str));
     printf("CRC32 = 0x%x\n", crc);
 #endif
-
 }
