@@ -2,7 +2,6 @@
 bin/
 obj/
 Debug/
-Release/
 ipch/
 TestResults/
 *.suo
@@ -15,3 +14,16 @@ TestResults/
 [Tt]humbs.db
 *~*.xlsx
 *~*.docx
+CRC32/Release/CRC32.Build.CppClean.log
+CRC32/Release/CRC32.log
+CRC32/Release/crc32.obj
+CRC32/Release/CRC32.tlog/CL.command.1.tlog
+CRC32/Release/CRC32.tlog/CL.write.1.tlog
+CRC32/Release/CRC32.tlog/CL.read.1.tlog
+CRC32/Release/CRC32.tlog/CRC32.lastbuildstate
+CRC32/Release/CRC32.tlog/CRC32.write.1u.tlog
+CRC32/Release/CRC32.tlog/link.command.1.tlog
+CRC32/Release/CRC32.tlog/link.read.1.tlog
+CRC32/Release/CRC32.tlog/link.write.1.tlog
+CRC32/Release/CRC32.vcxproj.FileListAbsolute.txt
+CRC32/Release/crc_32_lib.obj
